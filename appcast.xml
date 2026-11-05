@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>RecGlow</title>
+    <item>
+      <title>0.3.0</title>
+      <pubDate>Thu, 05 Nov 2026 02:41:36 +0000</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zeyuan1995jason-coder/recglow-releases/releases/download/v0.3.0/RecGlow-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="7qmNRwjboIQ+TNpqCnKGfNSYbXP+AcHnd8kh1FwnkmgZxbercG09shivM4SzYYHIle07GM9geDyW1UAAoWwLBQ==" length="161226852"/>
+    </item>
+  </channel>
+</rss>
