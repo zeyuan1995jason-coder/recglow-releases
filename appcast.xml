@@ -3,12 +3,12 @@
   <channel>
     <title>RecGlow</title>
     <item>
-      <title>0.3.0</title>
-      <pubDate>Thu, 05 Nov 2026 02:41:36 +0000</pubDate>
-      <sparkle:version>75</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>0.3.1</title>
+      <pubDate>Thu, 05 Nov 2026 03:12:03 +0000</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/zeyuan1995jason-coder/recglow-releases/releases/download/v0.3.0/RecGlow-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="7qmNRwjboIQ+TNpqCnKGfNSYbXP+AcHnd8kh1FwnkmgZxbercG09shivM4SzYYHIle07GM9geDyW1UAAoWwLBQ==" length="161226852"/>
+      <enclosure url="https://github.com/zeyuan1995jason-coder/recglow-releases/releases/download/v0.3.1/RecGlow-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="ehGeDluAY8P9+hUiS4nvqlv3fbf6oLxRZL3m/VU0bqtV/9dy+C60PWYJ9th+DviVkgGq4WgmCxEhyzE9ldFhCg==" length="161688372"/>
     </item>
   </channel>
 </rss>
